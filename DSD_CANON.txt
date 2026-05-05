@@ -1,0 +1,18 @@
+=== DENGASCAN CANONICAL DISCOVERIES v5.2 ===
+Author: Gregory Bright Chinhuho
+Location: Durban, South Africa
+Tool: DengaScan v5.2 C - Tight Tolerance
+Tolerance: ±0.5s
+Date: May 4, 2026
+
+CONFIRMED PERIODIC SIGNALS:
+DSD-003 | Period: 15.000s | Phase: 0.000s | Sigma: 22.0 | Hits: 1235/10000
+DSD-004 | Period: 22.000s | Phase: 3.000s | Sigma: 19.9 | Hits: 796/8763
+DSD-005 | Period: 45.000s | Phase: 7.000s | Sigma: 7.0 | Hits: 270/7967
+DSD-006 | Period: 45.000s | Phase: 8.000s | Sigma: 6.6 | Hits: 258/7697
+
+Residual Events: 7439
+Status: v5.2 Complete. v6 Hunting DSD-007.
+
+LEGACY:
+DSD-002 | Period: 22.12s | Status: Confirmed Candidate (v4)
